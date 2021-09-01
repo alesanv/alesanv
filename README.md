@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alesanv
-- 👀 I’m interested in Raspeberry Pi, Python, C and aim to learn golang 
-- 🌱 I’m currently learning Cybersecurity
-- 📫 How to reach me: ralesanv@gmail.com
+- 👀 I’m interested in Raspeberry Pi, Python, C, C# and aim to learn Go 
+- 🌱 I’m currently learning Python and Bash scripting
 
 <!---
 alesanv/alesanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
